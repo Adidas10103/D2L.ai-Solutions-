@@ -1,0 +1,3 @@
+Matrix Calculus(Basics) - https://www.youtube.com/watch?v=IgAr5kzza78
+Poisson Distribution for Discrete distribution - https://www.youtube.com/watch?v=jmqZG6roVqU
+Black Scholes Model - https://www.youtube.com/watch?v=f16qjTVx05M
