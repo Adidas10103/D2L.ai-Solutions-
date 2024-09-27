@@ -1,4 +1,4 @@
-# D2L.ai "Solutions" 
+# D2L.ai Solutions
 
 The solutions provided in this repository are the result of extensive thought, effort, and research. I have carefully considered each aspect to the best of my ability. However, I understand that mistakes can occur, despite the effort put into creating accurate and thorough answers.
 
